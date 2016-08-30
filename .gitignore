@@ -45,3 +45,8 @@ jspm_packages
 *.iml
 out
 gen
+
+typings
+
+#typejs
+*.js.map
