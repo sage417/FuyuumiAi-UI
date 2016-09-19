@@ -50,3 +50,4 @@ typings
 
 #typejs
 *.js.map
+app/*.js
